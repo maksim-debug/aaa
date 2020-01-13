@@ -1,0 +1,12 @@
+E:\ТРПО\Kursovaya rabota 2k19\kursovaya2k19\kursovaya2k19\bin\Debug\kursovaya2k19.exe.config
+E:\ТРПО\Kursovaya rabota 2k19\kursovaya2k19\kursovaya2k19\bin\Debug\kursovaya2k19.exe
+E:\ТРПО\Kursovaya rabota 2k19\kursovaya2k19\kursovaya2k19\bin\Debug\kursovaya2k19.pdb
+E:\ТРПО\Kursovaya rabota 2k19\kursovaya2k19\kursovaya2k19\obj\Debug\kursovaya2k19.Form1.resources
+E:\ТРПО\Kursovaya rabota 2k19\kursovaya2k19\kursovaya2k19\obj\Debug\kursovaya2k19.Properties.Resources.resources
+E:\ТРПО\Kursovaya rabota 2k19\kursovaya2k19\kursovaya2k19\obj\Debug\kursovaya2k19.csproj.GenerateResource.cache
+E:\ТРПО\Kursovaya rabota 2k19\kursovaya2k19\kursovaya2k19\obj\Debug\kursovaya2k19.csproj.CoreCompileInputs.cache
+E:\ТРПО\Kursovaya rabota 2k19\kursovaya2k19\kursovaya2k19\obj\Debug\kursovaya2k19.exe
+E:\ТРПО\Kursovaya rabota 2k19\kursovaya2k19\kursovaya2k19\obj\Debug\kursovaya2k19.pdb
+E:\ТРПО\Kursovaya rabota 2k19\kursovaya2k19\kursovaya2k19\obj\Debug\kursovaya2k19.registr.resources
+E:\ТРПО\Kursovaya rabota 2k19\kursovaya2k19\kursovaya2k19\obj\Debug\kursovaya2k19.csprojResolveAssemblyReference.cache
+E:\ТРПО\Kursovaya rabota 2k19\kursovaya2k19\kursovaya2k19\obj\Debug\kursovaya2k19.prosmotr.resources
